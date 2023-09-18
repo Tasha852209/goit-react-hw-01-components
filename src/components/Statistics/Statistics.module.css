@@ -1,0 +1,25 @@
+.statistics {
+  background-color: aliceblue;
+  text-align: center;
+  margin: 0 auto;
+  width: 500px;
+}
+.title {
+  font-size: 35px;
+  text-transform: uppercase;
+}
+.statList {
+  padding: 0;
+  display: flex;
+  list-style: none;
+}
+.item {
+  width: 125px;
+}
+.label {
+  display: block;
+  font-size: 25px;
+}
+.percentage {
+  font-size: 35px;
+}
